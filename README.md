@@ -21,10 +21,4 @@ Before running the project, you need to have the following Python libraries inst
 You can install the necessary libraries using pip:
 
 ```bash
-'''How to Run the Project
-Clone the repository to your local machine.
-
-Make sure all the required libraries are installed.
-
-Run the Python script:'''
-
+pip install pyttsx3 SpeechRecognition
