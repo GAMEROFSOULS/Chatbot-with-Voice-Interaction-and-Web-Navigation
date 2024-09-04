@@ -23,13 +23,5 @@ You can install the necessary libraries using pip:
 ```bash
 pip install pyttsx3 SpeechRecognition
 
-#To run the project
-#Clone the repository to your local machine.
-
-#Make sure all the required libraries are installed.
-
-#Run the Python script:
-
-python chatbot.py
 
 
