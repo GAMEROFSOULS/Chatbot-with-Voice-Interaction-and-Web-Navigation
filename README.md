@@ -19,7 +19,7 @@ Before running the project, you need to have the following Python libraries inst
 - `webbrowser`: For opening web pages (comes pre-installed with Python).
 
 - Usage
-#Text Interaction: Type a message in the entry box and press the "Send" button.
+#**Text Interaction: Type a message in the entry box and press the "Send" button**.
 #Voice Interaction: Click the "Speak" button and say your command. The chatbot will respond to greetings, general questions, and specific commands to open websites.
 ##Web Navigation: Use voice commands like "open Google," "open LinkedIn," "open GitHub," or "open YouTube" to navigate to these websites.
 ##Example Commands
