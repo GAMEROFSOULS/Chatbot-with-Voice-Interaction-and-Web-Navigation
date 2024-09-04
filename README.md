@@ -18,31 +18,7 @@ Before running the project, you need to have the following Python libraries inst
 - `speech_recognition`: For speech-to-text conversion.
 - `webbrowser`: For opening web pages (comes pre-installed with Python).
 
-- Usage
--**Text Interaction: Type a message in the entry box and press the "Send" button**.
--**Voice Interaction: Click the "Speak" button and say your command. The chatbot will respond to greetings, general questions, and specific commands to open websites.**
--**Web Navigation: Use voice commands like "open Google," "open LinkedIn," "open GitHub," or "open YouTube" to navigate to these websites.**
--**Example Commands**
--**"Hello": The chatbot will greet you.**
--**"How are you?": The chatbot will tell you how it's doing.**
--**"What's your name?": The chatbot will introduce itself.**
--**"Open Google": The chatbot will open Google in your web browser.**
--**"Open LinkedIn": The chatbot will open LinkedIn in your web browser.**
--**"Open GitHub": The chatbot will open GitHub in your web browser.**
--**"Open YouTube": The chatbot will open YouTube in your web browser.**
--**Contributing
-##You can fix this repository, make modifications, and send a pull request. Contributions are welcome**
-
 You can install the necessary libraries using pip:
 
 ```bash
 pip install pyttsx3 SpeechRecognition
-
-To run the project
-
-python chatbot.py
-
-
-
-
-
